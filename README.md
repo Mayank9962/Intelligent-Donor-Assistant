@@ -21,7 +21,7 @@ This project provides Python scripts to generate text and images using Amazon Be
 
 ### Clone the repository
 
-git clone https://github.com/mayankbairagi123/donor-ai-bedrock.git
+git clone https://github.com/<user-name>/donor-ai-bedrock.git
 cd donor-ai-bedrock
 
 Install dependencies
@@ -31,9 +31,13 @@ pip install -r requirements.txt
 ⚙ Usage
 
 Text Generation (Titan Text Lite)
+
 python textgen_bedrock.py
+
 Image Generation (Titan Image Generator)
+
 python smart_imagegen.py
+
 Generated outputs will be saved in the output/ directory.
 
 📦 Sample Output (Text)
