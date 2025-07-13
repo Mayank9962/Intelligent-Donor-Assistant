@@ -21,7 +21,8 @@ This project provides Python scripts to generate text and images using Amazon Be
 
 ### Clone the repository
 
-git clone https://github.com/<user-name>/donor-ai-bedrock.git
+git clone https://github.com/<user-name>donor-ai-bedrock.git
+
 cd donor-ai-bedrock
 
 Install dependencies
